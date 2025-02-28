@@ -34,7 +34,7 @@ From basic arithmetic to **nested formulas**, I’ve leveraged Excel’s formula
 
 ## 📂 Project Contents  
 This repository includes:  
-- ✅ **Sample Sales Data** – Used for analysis and visualization.  
+- ✅ **Sample Sales Data** – Used for analysis and visualization. *(Dataset available in the [Sales Data Repository](https://github.com/GirishHS12/CodeBasics/tree/main/Code%20Basics/Excel))*  
 - ✅ **PivotTable Dashboards** – Interactive reports for business insights.  
 - ✅ **Power Query Transformations** – Cleaned and structured datasets.  
 - ✅ **Excel Templates & Macros** – Ready-to-use business solutions.  
